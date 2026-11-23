@@ -51,12 +51,11 @@ TRUE ('t', 'true', 'y', 'yes' '1')
 FALSE ('f', 'false', 'n', 'no', '0')
 
 Data e Hora
+
 timestamp
 interval
 date
 time
 time with time zone
-
-
 """
 
